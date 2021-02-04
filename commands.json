@@ -1,0 +1,32 @@
+{
+  "watching": {
+    "source":null,
+    "response":"Thanks for watching {username}",
+    "runtime":0
+  },
+  "uptime": {
+    "source":null,
+    "response":"Live for: {uptime}. Thanks for asking!",
+    "runtime":0
+  },
+  "jump": {
+    "source":"Avatar Jump",
+    "response":"{username} can you jump this high?",
+    "runtime":1500
+  },
+  "cheer": {
+    "source":"Avatar Cheer",
+    "response":"Celebrate with me {username}.",
+    "runtime":1500
+  },
+  "dance": {
+    "source":"Avatar Dance",
+    "response":"Lets boogie boogie {username}!",
+    "runtime":1500
+  },
+  "commands": {
+    "source":null,
+    "response":"Commands: {commands}",
+    "runtime":0
+  }
+}
